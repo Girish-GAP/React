@@ -1,29 +1,12 @@
-import { Dashboard } from "./screens/Dashboard";
+import Dashboard from "./Dashboard";
 
 
 
 function App(){
     return( 
     <div>
-        YO
-    {/* <Dashboard></Dashboard> */}
-    {/* <h1>Digital Assignments</h1> */}
-
-        {/* Duplicate element found : make a component */}
-        {/* 
-        <div>
-            <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbqpxA9J2rDfYcoX3SfdhmkzXpGMwFviYtPBKGRqc1yC2XEheZpCMXwwL1hWqRM01bbTM&usqp=CAU"/>
-            <h3>Alexa</h3>
-        </div>
-        <div>
-            <img/>
-            <h3>Alexa</h3>
-        </div>
-
-        <div>
-            <img/>
-            <h3>Alexa</h3>
-        </div> */}
+        App
+        <Dashboard></Dashboard>
     </div>
     )
 }
