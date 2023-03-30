@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* If button with svg(icon) then add this propery */
+button > svg {
+    margin-right: 5px;
+}
