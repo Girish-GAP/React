@@ -1,4 +1,4 @@
-### In this project directory, you can learn : 
+### In this project directory, you can learn  : 
 
 - index.js view rendering template
 - Working with jsx
