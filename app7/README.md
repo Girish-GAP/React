@@ -1,4 +1,4 @@
-### In this project directory, you can learn : 
+### In this project directory, you can learn  : 
 
 - Use of React 'useReducer' hook.
 - This helps to reduce prop drilling.
