@@ -1,4 +1,4 @@
-### In this project directory, you can learn : 
+### In this project directory, you can learn  : 
 
 - How iterate object using map and render the items.
 
