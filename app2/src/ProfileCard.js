@@ -7,7 +7,7 @@ function ProfileCard({title, handle, image, description }){    // destructuring 
     return(
         <div className="card">
 
-            <div className="card-image">
+            <div className="card-image">    
                 <figure className="image is-1by1"> 
                     <img src = {image}/>
                 </figure>
