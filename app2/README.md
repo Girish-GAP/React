@@ -1,4 +1,4 @@
-### In this project directory, you can learn : 
+### In this project directory, you can learn  : 
 
 - Identify repetations of code block and convert it into component.
 - Rendering one component in another
