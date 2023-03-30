@@ -1,4 +1,4 @@
-### In this project directory, you can learn : 
+### In this project directory, you can learn  : 
 
 - How prop drilling affect the application.
 - How to use 'useContext'.
