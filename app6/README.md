@@ -1,6 +1,6 @@
 ### In this project directory, you can learn : 
 
-- Reusable components like buttons, dropdown etc..
+- Reusable components like buttons, dropdown etc...
 - Routing the components.
 
  - [App.jsx](https://github.com/Girish-GAP/React-Projects/blob/master/app6/src/App.js) : Routing the components
