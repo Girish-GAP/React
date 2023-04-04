@@ -1,4 +1,4 @@
-### In this project directory, you can learn  : 
+### In this project directory, you can learn:
 
 - How to call api using axios.
 - How to use async and await.
